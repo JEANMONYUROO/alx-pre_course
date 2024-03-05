@@ -1,1 +1,1 @@
-This is my first read me as a software engineer
+This is my first readme as a software engineer
